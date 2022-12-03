@@ -14,6 +14,14 @@ public class EbebekPage {
         PageFactory.initElements(Driver.getDriver(), this);
     }
 
+
+    @FindBy(xpath = "//img[@class='ins-close-button-c2703']")
+    public WebElement notificationText;
+
+    @FindBy(xpath = "//i[@class='icon icon-close-modal cookies__img-close']")
+    public WebElement cookies;
+
+
     @FindBy(xpath = "//input[@id='txtSearchBox']")
     public WebElement searchBox;
 

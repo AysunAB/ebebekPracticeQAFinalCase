@@ -1,0 +1,6 @@
+2022-12-04 01:08:53,815 INFO t.TC_001 [main] ebebek sitesine gidilir
+2022-12-04 01:08:59,617 INFO t.TC_001 [main] Kaşık maması ürünleri filtrelenir
+2022-12-04 01:09:04,797 INFO t.TC_001 [main] Sayfadaki son ürüne tıklanır
+2022-12-04 01:09:08,088 INFO t.TC_001 [main] Açılan ürünle arama sonucunda tıklanan ürünün aynı olduğu doğrulanır
+2022-12-04 01:09:11,280 INFO t.TC_001 [main] Ürün sepete eklenir
+2022-12-04 01:09:14,484 INFO t.TC_001 [main] Sağdan açılan modadan sepeti gör butonuna tıklanır
